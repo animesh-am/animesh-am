@@ -8,7 +8,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=animesh-am.animesh-am" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Animesh+Maity!;+A+passionate+learner!;+An+innovative+thinker!;+Scroll+below+to+read+more⬇️;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Animesh+Maity!;+A+Python+GenAI+Engineer!;+A+passionate+learner!;+An+innovative+thinker!;+Scroll+below+to+read+more⬇️;" />
 </h1>
 
 <h3 align="center">A highly enthusiast Programmer from India</h3>
