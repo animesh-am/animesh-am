@@ -19,9 +19,9 @@
  
 🌱 I’m currently learning **Statistics, MS Excel, SQL, PowerBI**
 
-💬 Ask me about **Data Cleaning, Python, Excel... or anything [here](https://github.com/animesh-am/animesh-am/issues)**
+💬 Ask me about **Python, LLMs, SQL, LangChain, Excel... or anything [here](https://github.com/animesh-am/animesh-am/issues)**
 
-- 👯 I’m looking to collaborate on Data Analysis, Business Analysis, Machine Learning
+- 👯 I’m looking to collaborate on GenAI, Python, Machine Learning
 
 ⚡ Fun fact **"Data analytics is the future, and the future is NOW!" — Radi**
 
