@@ -17,7 +17,7 @@
 
 <div align="center">
  
-🌱 I’m currently learning **Statistics, MS Excel, SQL, PowerBI**
+🌱 I’m currently learning **RAGs, LangGraph, Agentic AI, Orchestration**
 
 💬 Ask me about **Python, LLMs, SQL, LangChain, Excel... or anything [here](https://github.com/animesh-am/animesh-am/issues)**
 
