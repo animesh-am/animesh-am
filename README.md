@@ -11,13 +11,41 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Animesh+Maity!;+A+Python+GenAI+Engineer!;+A+passionate+learner!;+An+innovative+thinker!;+Scroll+below+to+read+more⬇️;" />
 </h1>
 
-<h3 align="center">A highly enthusiast Programmer from India</h3>
+<h2 align="center">🚀 What I Build</h2>
+
+<div align="center">
+• Retrieval-Augmented Generation (RAG) pipelines using LangChain & vector databases  <br/><br/>
+• Agentic workflows with LangGraph (planning, tool-use, memory)  <br/><br/>
+• LLM-powered apps in Python (Flask/FastAPI)  <br/><br/>
+• Data + AI integrations (SQL, analytics, automation)  <br/><br/>
+</div>
+
+
+<h3 align="center">Python & GenAI Engineer building production-grade RAG and agentic AI systems</h3>
 
 <br/>
 
 <div align="center">
  
-🌱 I’m currently learning **RAGs, LangGraph, Agentic AI, Orchestration**
+<h2 align="center">🧠 Current Focus</h2>
+
+<div align="center">
+I’m currently deepening my skills in modern GenAI systems, with hands-on learning around:
+<br/><br/>
+🔹 Retrieval-Augmented Generation (RAG): embeddings, vector search, context injection  <br/><br/>
+🔹 Agentic AI concepts: planning, tool usage, memory, and orchestration (LangGraph)  <br/><br/>
+🔹 LLM application development in Python  <br/><br/>
+🔹 Data-driven workflows using SQL and analytics  <br/><br/>
+</div>
+
+<h2 align="center">🚧 Building Next</h2>
+
+<div align="center">
+🔸 A small RAG-based document Q&A system  
+🔸 An agent-style workflow with tool calling  
+🔸 A Python-based LLM backend project  
+</div>
+
 
 💬 Ask me about **Python, LLMs, SQL, LangChain, Excel... or anything [here](https://github.com/animesh-am/animesh-am/issues)**
 
